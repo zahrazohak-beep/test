@@ -1,0 +1,3 @@
+git add another.txt
+git commit -m "work on another file"
+o
